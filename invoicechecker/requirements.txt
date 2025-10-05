@@ -1,0 +1,4 @@
+Django==5.2.7
+djangorestframework==3.16.1
+google-generativeai==0.8.5
+pypdf==6.1.1
