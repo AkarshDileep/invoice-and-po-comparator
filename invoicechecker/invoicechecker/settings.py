@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-&)1$g1o9kdeg86t6#5^8za#l9arxocnv%vn#@=@oz9ih0!!!z-
 
 # OpenAI API Key
 # IMPORTANT: Replace "your_openai_api_key" with your actual OpenAI API key.
-#OPENAI_API_KEY = "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"
-#GEMINI_API_KEY = "AIzaSyBD1SIxuCu0oYCdt2sVC_qiozidxXTzBNo"
+#OPENAI_API_KEY = 
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
